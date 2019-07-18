@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  connect-api-mq-service:
+    image: pangea/mq-service:latest
+    container_name: mq-service
+    ports:
+      - "3090:3090"
+    volumes:
+      - ~/.aws:/root/.aws
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Local
+    build:
+      context: .
+      dockerfile: connect-api-mq-service/Dockerfile
