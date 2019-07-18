@@ -1,0 +1,15 @@
+services:
+  connect-api-mq-service:
+    build:
+      context: C:\Users\Keerthi Maryala\Downloads\Keerthi\GitHub\connect-api-mq-service
+      dockerfile: connect-api-mq-service/Dockerfile
+    container_name: mq-service
+    environment:
+      ASPNETCORE_ENVIRONMENT: Local
+    image: pangea/mq-service:latest
+    ports:
+    - published: 3090
+      target: 3090
+    volumes:
+    - C:\Users\Keerthi Maryala\.aws:/root/.aws:rw
+version: '3.4'

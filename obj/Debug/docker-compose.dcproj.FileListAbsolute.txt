@@ -1,0 +1,10 @@
+C:\Users\Keerthi Maryala\source\repos\connect-api-mq-service\bin\Debug\connect-api-mq-service.dll
+C:\Users\Keerthi Maryala\source\repos\connect-api-mq-service\bin\Debug\connect-api-mq-service.pdb
+C:\Users\Keerthi Maryala\source\repos\connect-api-mq-service\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\Keerthi Maryala\source\repos\connect-api-mq-service\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Keerthi Maryala\source\repos\connect-api-mq-service\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\Keerthi Maryala\Downloads\Keerthi\GitHub\connect-api-mq-service\bin\Debug\connect-api-mq-service.dll
+C:\Users\Keerthi Maryala\Downloads\Keerthi\GitHub\connect-api-mq-service\bin\Debug\connect-api-mq-service.pdb
+C:\Users\Keerthi Maryala\Downloads\Keerthi\GitHub\connect-api-mq-service\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\Keerthi Maryala\Downloads\Keerthi\GitHub\connect-api-mq-service\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Keerthi Maryala\Downloads\Keerthi\GitHub\connect-api-mq-service\obj\Debug\docker-compose.dcproj.CopyComplete
